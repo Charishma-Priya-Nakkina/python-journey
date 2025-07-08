@@ -1,7 +1,7 @@
-1.py file is about the basic Hello world program and differnt prompts for print.
+Hello world.py file is about the basic Hello world program and differnt prompts for print.
 <br>
 <br>
-NOTE
+<h4>NOTE :</h4>
 <br>
 Syntax error will occur  
 <br>
@@ -14,3 +14,12 @@ Syntax error will occur
        * print('print("Welcome")') #output : print("Welcome")
 <br>
        * print("print('Welcome')") #output : print('Welcome')
+<br>
+<br>
+Indentation is must and should in python.
+<br>
+Hashtag(#) is used for single line comment.
+<br>
+Syntax for Input function : input(prompt) #prompt is optional
+<br>
+By default input function is string(data type)
