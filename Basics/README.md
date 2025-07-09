@@ -23,3 +23,10 @@ Hashtag(#) is used for single line comment.
 Syntax for Input function : input(prompt) #prompt is optional
 <br>
 By default input function is string(data type)
+<br>
+<h4>Variables</h4> are the containers that stores values , no need to declare before its use.
+<br>
+We can change the values of the variables , it always takes the recently stored value.
+<br>
+Type Error occurs if we concatenate integer and string.
+<br>
