@@ -30,3 +30,25 @@ We can change the values of the variables , it always takes the recently stored 
 <br>
 Type Error occurs if we concatenate integer and string.
 <br>
+<h4>VARIABLE NAMING RULES : </h4>
+<br>
+1. It can only have A-Z , a-z ,0-9 and underscore
+<br>
+2. Space is not allowed
+<br>
+3. Variable name shouldn't start with number
+<br>
+4. We can't use reserved word
+<br>
+5. Python is case sensitive
+<br>
+<br>
+We don't need to mention the type of data while initializing a variale.
+<br>
+We can directly print "\" this symbol,to print this we use, print("//").
+<br>
+len function is used to find the length of strings only.
+<br>
+Changing one data type in to another data type is TYPE CASTING or TYPE CONVERSION.
+<br>
+In 3.X version the result is a float; ex: print(4/2) gives the value of 2.0

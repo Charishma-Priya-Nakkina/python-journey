@@ -2,3 +2,4 @@ print("Hey \nHow are you? \nThis is python course") #prints them in different li
 print("Hello"+"Priya") #output : HelloPriya
 print("Hello"+""+"Priya") #output : Hello Priya
 input("What is your name?") #Takes the info from the user end
+print(5* "Cherry") #output: Cherry Cherry Cherry Cherry Cherry

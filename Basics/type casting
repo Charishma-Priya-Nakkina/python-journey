@@ -1,0 +1,5 @@
+length=len("Priya") #If we print this the output will be 5
+print("Your name has"+length+"characters") #TypeError: can only concatenate str (not "int") to str
+print("Your name has "+str(length)+" characters") #Your name has 5 characters
+name="Riya"
+print(10+int(name))#ValueError: invalid literal for int() with base 10: 'Riya'

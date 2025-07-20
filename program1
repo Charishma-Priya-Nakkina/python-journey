@@ -1,0 +1,8 @@
+#To add digits of a two-digit number
+#for ex:12=1+2=3
+number=input("enter a two digit number:")
+first_num=number[0]
+second_num=number[1]
+print(int(first_num)+int(second_num)) #Gives output by adding the two digits of the number entered by user
+
+
