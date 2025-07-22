@@ -2,7 +2,6 @@ Hello world.py file is about the basic Hello world program and differnt prompts 
 <br>
 <br>
 <h4>NOTE :</h4>
-<br>
 Syntax error will occur  
 <br>
    1.If the closing commas are not present.
@@ -52,3 +51,8 @@ len function is used to find the length of strings only.
 Changing one data type in to another data type is TYPE CASTING or TYPE CONVERSION.
 <br>
 In 3.X version the result is a float; ex: print(4/2) gives the value of 2.0
+<h4>Operators</h4>
+Operators are used to perform operations on values and variables.
+<br>
+1.Arithmetic Operators
+<br>

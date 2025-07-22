@@ -1,0 +1,12 @@
+#Find out how many days,weeks,months,we have left;if we live untill 90 years old
+#input : Your current age
+#output : You have a days , b weeks , c months left
+#Assume : 1 year=365 days,1 year=52 weeks,1 year=12 months
+
+age=int(input("Enter your age:"))
+years_left=90-age
+days_left=years_left*365
+months_left=years_left*12
+weeks_left=years_left*52
+print(f"You have {days_left} days, {weeks_left} weeks,{months_left} months left.")
+

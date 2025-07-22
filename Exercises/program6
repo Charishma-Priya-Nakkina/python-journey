@@ -1,0 +1,28 @@
+#Pizza Order Program
+#small pizza=100,medium pizza=200,large pizza=300
+#pepperoni for small pizza=30,pepperoni for meduim/large pizza=50
+#Extra cheese for any pizza=20
+
+print("Welcome to Priya Pizza House!")
+size=input("What size of pizza you want(s/m/l)?").lower()
+bill=0
+if size=="s":
+  bill+=100
+  print("Small pizza is 100")
+elif size=="m":
+  bill+=200
+  print("Medium pizza is 200")
+else:
+  bill+=300
+  print("Large pizza is 300")
+add_pepperoni=input("Do you want pepperoni(y/n)?").lower()
+if add_pepperoni=="y":
+   if size=="s":
+      bill+=30
+   else:
+      bill+=50
+extra_cheese=input("Do you want extra cheese(y/n)?").lower()
+if extra_cheese=="y":
+   bill+=20
+print(f"Your Total bill is {bill}")
+print("Thankyou Please visit again..")
