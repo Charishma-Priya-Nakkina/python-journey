@@ -61,10 +61,13 @@ In 3.X version the result is a float; ex: print(4/2) gives the value of 2.0
 <h4>Operators</h4>
 Operators are used to perform operations on values and variables.
 <br>
-1.<h7>Arithmetic Operators</h7> : These operators perform mathematical operations like addition,subtraction etc..
+1.<h5>Arithmetic Operators</h5> : These operators perform mathematical operations like addition,subtraction etc..
 <br>
 Addition (+) , Subtraction (-) , Multiplication (*) , Division (/) , Modulus:Remainder of division (%) , Floor division:Returns the integer part of the division (//) , Exponentation (**)
 <br>
 EX: a=10 , b=5
+<br>
     print(a+b) #output=15
+    <br>
     print(a-b) #output=5
+    <br>
