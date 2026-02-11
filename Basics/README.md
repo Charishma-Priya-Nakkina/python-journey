@@ -61,7 +61,7 @@ In 3.X version the result is a float; ex: print(4/2) gives the value of 2.0
 <h4>Operators</h4>
 Operators are used to perform operations on values and variables.
 <br>
-1.<h5>Arithmetic Operators</h5> : These operators perform mathematical operations like addition,subtraction etc..
+1.  Arithmetic Operators : These operators perform mathematical operations like addition,subtraction etc..
 <br>
 Addition (+) , Subtraction (-) , Multiplication (*) , Division (/) , Modulus:Remainder of division (%) , Floor division:Returns the integer part of the division (//) , Exponentation (**)
 <br>
@@ -71,3 +71,14 @@ EX: a=10 , b=5
     <br>
     print(a-b) #output=5
     <br>
+2.  Comparision Operators : These operators compare two values and return True or False
+<br>
+Equal to (==) , Not equal to (!=) , Greater than (>) , Less than (<) , Greater than or equal to (>=) , Less than or equal to (<=)
+<br>
+3.  Logical Operators : These operators are used to combine conditional statements
+<br>
+and : Returns True if both conditions are true
+<br>
+or : Returns True if at least one condition is true
+<br>
+not : Reverses the result ( returns true if condition is false)
