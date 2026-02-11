@@ -34,6 +34,17 @@ By default input function is string(data type)
 <br>
 We can change the values of the variables , it always takes the recently stored value.
 <br>
+Data types tells python what kind of data you're storing
+<br>
+INTEGER : Whole Numbers
+<br>
+FLOAT : Numbers with decimal points
+<br>
+STRING : Text
+<br>
+BOOLEAN : True or False
+<br>
+<br>
 Type Error occurs if we concatenate integer and string.
 <br>
 <h4>VARIABLE NAMING RULES : </h4>
@@ -71,10 +82,12 @@ EX: a=10 , b=5
     <br>
     print(a-b) #output=5
     <br>
+    <br>
 2.  Comparision Operators : These operators compare two values and return True or False
 <br>
 Equal to (==) , Not equal to (!=) , Greater than (>) , Less than (<) , Greater than or equal to (>=) , Less than or equal to (<=)
 <br>
+   <br>
 3.  Logical Operators : These operators are used to combine conditional statements
 <br>
 and : Returns True if both conditions are true
