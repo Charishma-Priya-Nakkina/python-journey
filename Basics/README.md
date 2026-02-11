@@ -19,6 +19,10 @@ Indentation is must and should in python.
 <br>
 Hashtag(#) is used for single line comment.
 <br>
+Inline comment : comments can also be placed at the end of the line
+<br>
+print("HI") # any comment , output: HI 
+<br>
 Syntax for Input function : input(prompt) #prompt is optional
 <br>
 By default input function is string(data type)
